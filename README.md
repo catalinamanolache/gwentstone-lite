@@ -1,6 +1,4 @@
-# GwentStone Lite - OOP Assignment 0
-
-### Name: Manolache Maria-Catalina, Group: 323CA
+# GwentStone Lite - A Strategic Two-Player, Turn-Based Card Game
 
 ## Description
 - Implemented a simplified version of a card game that combines elements from
